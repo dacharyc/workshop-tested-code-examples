@@ -99,7 +99,7 @@ def example(CONNECTION_STRING):
         # :snippet-end:
 
         # :snippet-start: limit
-        pipeline.append({"$limit": 3})
+        pipeline.append({"$limit": 4})
         # :snippet-end:
 
         # :snippet-start: unset
