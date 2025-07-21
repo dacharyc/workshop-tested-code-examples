@@ -1,7 +1,5 @@
 import unittest
-import examples.aggregations.filter.filter_tutorial as filter_tutorial
-import examples.aggregations.filter.tutorial_app as tutorial_app
-import json
+import examples.filter_tutorial as filter_tutorial
 import os
 import io
 from contextlib import redirect_stdout
