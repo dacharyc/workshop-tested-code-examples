@@ -16,7 +16,7 @@ their field values match specified criteria.
 To create the ``persons`` collection and insert the sample data, add the
 following code to your application:
 
-.. literalinclude:: /code-examples/tested/javascript/driver/tutorial-load-sample-data.snippet.load-sample-data.js
+.. literalinclude:: /code-examples/tested/javascript/driver/tutorial-setup.snippet.load-sample-data.js
    :language: javascript
    :copyable: true
    :category: usage example

@@ -1,6 +1,6 @@
 import { runTutorial } from '../examples/tutorial.js';
 import unorderedArrayOutputMatches from '../utils/outputMatchesExampleOutput.js';
-import { loadSampleData } from '../examples/tutorial-load-sample-data.js';
+import { loadSampleData } from '../examples/tutorial-setup.js';
 import { MongoClient } from 'mongodb';
 
 describe('Aggregation pipeline filter tutorial tests', () => {
