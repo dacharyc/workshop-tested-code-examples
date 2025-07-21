@@ -31,7 +31,7 @@ await persons.insertMany([
     firstname: 'Toni',
     lastname: 'Jones',
     dateofbirth: new Date('1991-11-23T16:53:56Z'),
-    vocation: 'POLITICIAN',
+    vocation: 'WRITER',
     address: {
       number: 1,
       street: 'High Street',
