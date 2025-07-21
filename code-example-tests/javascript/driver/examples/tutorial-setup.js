@@ -40,7 +40,7 @@ export async function loadSampleData() {
         firstname: 'Toni',
         lastname: 'Jones',
         dateofbirth: new Date('1991-11-23T16:53:56Z'),
-        vocation: 'WRITER',
+        vocation: 'TECH-WRITER',
         address: {
           number: 1,
           street: 'High Street',
